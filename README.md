@@ -12,7 +12,7 @@
 
 从日常痛点到完整作品，让每个工具都真实可用。
 
-### 🔧 [Git Clear · 引导式桌面 Git 客户端](https://github.com/awiggy/git-clear)
+### 🔧 [Git Clear Desktop · 引导式桌面 Git 客户端](https://github.com/awiggy/git-clear-desktop)
 
 用 Rust + egui 打造的桌面 Git 客户端，把日常和高级 Git 操作组织成清晰的任务页面。
 
@@ -39,6 +39,10 @@ AI 驱动的个人新闻雷达，每日自动生成中英双语新闻简报。
 每日收盘后自动抓取 A 股资金数据，输出新手友好的资金流向报告，并沉淀 SQLite 历史数据。
 
 `Python` `SQLite` `数据工具`
+
+## 🧩 AI Skills · 技能分类目录
+
+[查看 AI Skills 分类仓库](https://github.com/awiggy/ai-skills) — 集中展示项目记忆、内容创作、产品分析、GEO 与浏览器自动化技能；各项标明公开或私有状态。
 
 ### 🧠 [Task Progress Memory · Codex 任务记忆技能](https://github.com/awiggy/task-progress-memory)
 
