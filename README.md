@@ -42,7 +42,7 @@ AI 驱动的个人新闻雷达，每日自动生成中英双语新闻简报。
 
 ## 🧩 AI Skills · 技能分类目录
 
-[查看 AI Skills 分类仓库](https://github.com/awiggy/ai-skills) — 集中展示项目记忆、内容创作、产品分析、GEO 与浏览器自动化技能；各项标明公开或私有状态。
+[查看 AI Skills 分类仓库](https://github.com/awiggy/ai-skills) — 按项目记忆、内容创作、产品分析、GEO 与浏览器自动化分类，集中展示 6 个已公开的 Skill 仓库。
 
 ### 🧠 [Task Progress Memory · Codex 任务记忆技能](https://github.com/awiggy/task-progress-memory)
 
