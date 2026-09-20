@@ -40,15 +40,23 @@
 
 [在线试玩](https://awiggy.github.io/game-hub/)
 
-## 🧩 AI Skills · 技能分类目录
+## 🧩 AI Skills · 可复用的 AI 工作流
 
-[查看 AI Skills 分类仓库](https://github.com/awiggy/ai-skills) — 按项目记忆、内容创作、产品分析、GEO 与浏览器自动化分类，集中展示 6 个已公开的 Skill 仓库。
+围绕产品分析、开发交付与中文写作，把常用方法整理成可按需调用的技能。
 
-### 🧠 [Task Progress Memory · Codex 任务记忆技能](https://github.com/awiggy/task-progress-memory)
+### 🛠️ [AI Product Delivery Skills · AI 产品交付工具箱](https://github.com/awiggy/agent-product-delivery-skills)
 
-让 AI 编程助手以清单启动任务，并把项目进度写入记忆文件——下次对话直接从上次的地方继续。
+四个独立 Skill，覆盖 Agent 架构规划、业务功能实现、前端交互与发布检查。按阶段使用，明确验收要求与操作边界。
 
-`Codex Skill` `工作流` `可复用工具`
+### 🔍 [Reverse AI Product · AI 产品拆解](https://github.com/awiggy/reverse-ai-product)
+
+从截图、录屏与交互证据梳理用户流程、Agent 分工和工具调用，区分已知事实与架构推断，形成可追溯的分析报告。
+
+### ✍️ [Human Writing · 中文写作共创](https://github.com/awiggy/human-writing)
+
+从一个模糊想法开始，通过观点讨论、材料研究与结构梳理推进写作，也支持已有文章的修改和表达优化。
+
+[查看全部 Skills →](https://github.com/awiggy/ai-skills)
 
 ## About · 关于我
 
