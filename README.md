@@ -10,35 +10,35 @@
 
 ## ⭐ Featured projects · 精选作品
 
-从日常痛点到完整作品，让每个工具都真实可用。
+从业务流程到桌面工具与在线交互，记录产品设计、开发与持续迭代的实践。
 
-### 🔧 [Git Clear Desktop · 引导式桌面 Git 客户端](https://github.com/awiggy/git-clear-desktop)
+### 🧾 [轻报 Qingbao · AI 辅助报销流程 MVP](https://github.com/awiggy/qingbao-expense-mvp)
 
-用 Rust + egui 打造的桌面 Git 客户端，把日常和高级 Git 操作组织成清晰的任务页面。
+围绕员工、审批人与财务三种演示角色，串联票据上传、费用核对、报销提交、退回重提与模拟结算。
 
-每一步都有说明文字和安全默认值，不熟悉命令行细节也能可靠完成提交、同步、分支与冲突处理。
+结合本机 OCR、规则校验和可选模型接口，探索 AI 在报销流程中的辅助作用。当前为本地 MVP，真实模型服务的连通性与效果仍待验证。
 
-`Rust` `egui` `桌面应用` `三平台 CI/CD 发布`
+`业务流程设计` `React / Express` `SQLite` `本地 MVP`
 
-### 🐾 [Language Pet · 桌宠式语言阅读助手](https://github.com/awiggy/language-pet)
+### 🔧 [Git Agent Clear · 引导式桌面 Git 客户端](https://github.com/awiggy/git-clear-desktop)
 
-住在桌面上的语言阅读伙伴：复制任何语言的文字，即刻获得翻译与讲解。
+将提交、远程同步、版本历史与冲突处理组织成清晰的任务页面，说明操作影响、风险与撤回方式。
 
-支持中英日韩法五种语言，提供速读、段落解释、完整翻译的分层阅读体验。
+提供可选 AI 合并建议，由用户检查确认；普通 Git 操作无需模型密钥。提供 macOS、Windows 与 Linux 安装包。
 
-`Python` `桌面宠物` `DeepSeek` `多语言`
+`Rust` `egui` `交互引导` `桌面工具`
 
-### 🌅 [Daily News · AI 新闻雷达](https://github.com/awiggy/daily-news)
+[下载安装包](https://github.com/awiggy/git-clear-desktop/releases/latest)
 
-AI 驱动的个人新闻雷达，每日自动生成中英双语新闻简报。
+### 🎮 [游戏大全 GAME HUB · 在线小游戏合集](https://github.com/awiggy/game-hub)
 
-`Python` `LLM` `自动化`
+收录 50 款小游戏、覆盖 10 个分类，提供分类浏览、游戏详情与嵌入式试玩。
 
-### 📈 [Market Flow · A 股资金流向追踪](https://github.com/awiggy/market-flow)
+通过自动注册和构建前检查管理游戏内容，支持持续扩展。部分游戏基于开源项目改编；AI 创作入口目前为交互演示，尚未接入生成后端。
 
-每日收盘后自动抓取 A 股资金数据，输出新手友好的资金流向报告，并沉淀 SQLite 历史数据。
+`Vue 3 / Vite` `交互设计` `自动化构建` `在线体验`
 
-`Python` `SQLite` `数据工具`
+[在线试玩](https://awiggy.github.io/game-hub/)
 
 ## 🧩 AI Skills · 技能分类目录
 
