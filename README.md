@@ -1,3 +1,7 @@
+<a href="https://awiggy.github.io/" aria-label="打开 awiggy 的个人作品集网站">
+  <img src="assets/portfolio-cover.png" width="100%" alt="meet awiggy — 把具体的问题，做成可以体验的作品。点击海报，翻开我的作品集。">
+</a>
+
 # Hi, I'm awiggy 👋
 
 我是张宛瑜，一名关注 **Agent 工作流、RAG 知识库与 AI 评测**的 AI 产品经理。
