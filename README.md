@@ -16,7 +16,19 @@
 
 ## ⭐ Featured projects · 精选作品
 
-三个不同场景的实践：业务流程设计、复杂工具的交互引导，以及可持续扩展的在线内容平台。
+四个不同场景的实践：AI 产品交付、业务流程设计、复杂工具的交互引导，以及可持续扩展的在线内容平台。
+
+### 🏭 [产品工厂 Product Factory · AI 产品交付控制台](https://github.com/awiggy/product-factory)
+
+把需求、架构、选型、MVP、前端、评测、上线与迭代串成八个可追踪阶段。通过本地网页控制台查看 AI 执行进度、回答问题、检查交付物，并在关键节点确认和验收。
+
+组合 7 个阶段 Skill、状态机和质检单，对接 Claude Code、Codex CLI 与 pi。区分模拟测试、真实模型测试和线上验证，不把“AI 写完了”直接当成“产品可交付”。
+
+**当前状态：** 可本地运行，提供不调用 AI 的演示模式；真实产品全流程仍需持续验证，部署与付费操作需明确授权。
+
+`Agent 工作流` `Python / 原生 JavaScript` `阶段验收与审批`
+
+[查看项目与三张预览](https://github.com/awiggy/product-factory#项目预览) · [本地使用说明](https://github.com/awiggy/product-factory/blob/main/console/README.md) · [作品集介绍](https://awiggy.github.io/#product-factory)
 
 ### 🧾 [轻报 Qingbao · AI 辅助报销流程 MVP](https://github.com/awiggy/qingbao-expense-mvp)
 
